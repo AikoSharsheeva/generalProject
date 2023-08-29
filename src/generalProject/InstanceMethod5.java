@@ -15,6 +15,7 @@ public class InstanceMethod5 {
 
         String var1= obj.movie("Twilight ", 100);
         System.out.println(var1);
+        System.out.println("Hello");
 
 
         System.out.println(isPositive(10));
@@ -46,8 +47,11 @@ public class InstanceMethod5 {
         }
 
         }
+
+
     public static String concatString(String strCon, String strCon2) {
         return strCon.concat(strCon2);
     }
+
     }
 
