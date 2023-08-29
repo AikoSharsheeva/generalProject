@@ -17,6 +17,7 @@ public class InstanceMethod5 {
         System.out.println(var1);
         System.out.println("Hello");
         System.out.println("Sezima thanks");
+        System.out.println("Copybook");
 
 
 
