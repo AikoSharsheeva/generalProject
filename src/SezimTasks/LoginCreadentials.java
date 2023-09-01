@@ -21,6 +21,11 @@ public class LoginCreadentials {
     }
 
     public static boolean checkCredentials(String username, String password){
+/*
+Метод equalsIgnoreCase() сравнивает две строки без учета регистра символов и возвращает true,
+если строки идентичны (с точностью до символов, но без учета регистра),
+и false в противном случае.*/
+
 
         if(username.equalsIgnoreCase("Superstar") && password.equals("Hardpassword!")){
             return true;
