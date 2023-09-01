@@ -1,6 +1,6 @@
 package generalProject;
 
-public class WhileStringBuilder15 {
+public class WhileStringBuilder16 {
     public static void main(String[] args) {
         System.out.println(printStringWithX("Excellent mood"));
     }
