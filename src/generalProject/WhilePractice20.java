@@ -27,5 +27,6 @@ public class WhilePractice20 {
                 }
         }
     }
+
 }
 
